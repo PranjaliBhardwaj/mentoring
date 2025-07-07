@@ -22,7 +22,8 @@ LFX Mentorship is actively used by the Cloud Native Computing Foundation as a me
 
 | Year | Term             | Status    | Announcement                                                                                                                                                                                                                                                                   | Details                                             |
 |------|------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| 2025 | Term 1: Mar-May  | Planning |                                                                                                                                                                                                                                                                                | [2025 Term 1: Mar-May](2025/01-Mar-May/README.md)   |
+| 2025 | Term 2: Jun-Aug  | In prorgess |                                                                                                                                                                                                                                                                                | [2025 Term 2: Jun-Aug](2025/02-Jun-Aug/README.md)   |
+| 2025 | Term 1: Mar-May  | Completed |                                                                                                                                                                                                                                                                                | [2025 Term 1: Mar-May](2025/01-Mar-May/README.md)   |
 | 2024 | Term 3: Sep-Nov  | Completed |                                                                                                                                                                                                                                                                                | [2024 Term 3: Sep-Nov](2024/03-Sep-Nov/README.md)   |
 | 2024 | Term 2: Jun-Aug  | Completed | [Congratulations to 45 CNCF Term 2 2024 LFX Program mentees!](https://www.cncf.io/blog/2024/09/27/congratulations-to-45-cncf-term-1-2024-lfx-program-mentees/)                                                                                                                 | [2024 Term 2: Jun-Aug](2024/02-Jun-Aug/README.md)   |
 | 2024 | Term 1: Mar-May  | Completed | [CNCF celebrates successful mentees from LFX Program Term 1 2024!](https://www.cncf.io/blog/2024/06/19/cncf-celebrates-successful-mentees-from-lfx-program-term-1-2024/)                                                                                                       | [2024 Term 1: Mar-May](2024/01-Mar-May/README.md)   |
@@ -42,13 +43,11 @@ LFX Mentorship is actively used by the Cloud Native Computing Foundation as a me
 
 ### Current cycle
 
-The current cycle is [02-Jun-Aug 2024](2024/02-Jun-Aug/README.md).
+The current cycle is [01-Mar-May 2025](2025/01-Mar-May/README.md).
 
 ## Program Maintainers
 
-- Nate Waddington ([@nate-double-u](https://github.com/nate-double-u))
-- Jay Tiaki ([@jaytiaki](https://github.com/jaytiaki))
-- Ali Ok ([@aliok](https://github.com/aliok))
+- Nate W. ([@nate-double-u](https://github.com/nate-double-u))
 
 ## Program Guidelines
 
@@ -58,9 +57,9 @@ Please see the program-wide guidelines on the [LFX Mentorship website](https://d
 
 #### Projects
 
-Project maintainers and mentors are requested to submit the ideas below (under the Project Ideas section) section using the [template](/PROJECT_IDEA_TEMPLATE.md).
+Project maintainers and mentors are requested to submit the ideas using the [template](/PROJECT_IDEA_TEMPLATE.md).
 
-CNCF will select the projects that will participate in the Community Bridge mentorship round and they will appear on the Community Bridge website after the selection.
+CNCF will select the projects that will participate in the LFX mentorship round and they will appear on the LFX Mentorship Platform website after the selection.
 
 #### Mentors
 

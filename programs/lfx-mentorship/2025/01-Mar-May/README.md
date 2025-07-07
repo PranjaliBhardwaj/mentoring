@@ -67,7 +67,6 @@ Mentee application instructions can be found on the [Program Guidelines](https:/
   * [Metrics for TCP Long Connection](#metrics-for-tcp-long-connection)
 * [Knative](#knative)
   * [Design and Implement Levels for Educational Game](#design-and-implement-levels-for-educational-game)
-  * [Create high fidelity audio and animations to Educational Game](#create-high-fidelity-audio-and-animations-to-educational-game)
 * [KubeArmor](#kubearmor)
   * [Providing Zero-Trust policies for popular workloads](#providing-zero-trust-policies-for-popular-workloads)
 * [KubeEdge](#kubeedge)
@@ -333,6 +332,7 @@ the easiest component alone is intended to be covered as part of this internship
   - Faseela K (@kfaseela, k.faseela@gmail.com)
   - Benjamin Leggett (@bleggett, benjamin.leggett@solo.io)
   - Jianpeng He(@zirain, zirain2009@gmail.com)
+  - Ian Rudie (@ilrudie, ian.rudie@solo.io)
 - Upstream Issue: https://github.com/istio/istio/issues/54760
 - LFX URL: https://mentorship.lfx.linuxfoundation.org/project/9b1a1e87-2757-4f4f-aa58-49d55fc07b16 
 
@@ -541,18 +541,6 @@ eBPF, a recently introduced programmable technology in the kernel, currently has
   - Angelina Zhai (@AngelinaZhai, angelina.zhai@mail.utoronto.ca)
 - Upstream Issue: https://github.com/knative-extensions/educational-game/issues/8
 - LFX URL: https://mentorship.lfx.linuxfoundation.org/project/58392ddd-4d5a-491e-9b09-6035aa4c907e
-
-#### Create high fidelity audio and animations to Educational Game
-
-- Description: The Knative community is developing an educational game to teach concepts about event driven architectures and how to build them with Knative. A good overview of the project was [presented at KubeCon NA 2024](https://youtu.be/TTBKh6F4v-g?si=MRmx6a2YJsl7y0Q-). We are currently looking to tale our initial prototype and turn it into a full game. In this project, you will help achieve this by creating both visual and audio assets, giving the game a polished look.
-- Expected Outcome: Identify which assets should be created, create audio assets, create visual assets, add assets Godot.
-- Recommended Skills: Audio Design, Animation, Graphic Design, Game Development 
-- Mentor(s):
-  - Calum Murray (@Cali0707, calum.murray@mail.utoronto.ca)
-  - Zainab Husain (@zainabhusain227, zainabhusain227@gmail.com)
-  - Angelina Zhai (@AngelinaZhai, angelina.zhai@mail.utoronto.ca)
-- Upstream Issue: https://github.com/knative-extensions/educational-game/issues/9
-- LFX URL: https://mentorship.lfx.linuxfoundation.org/project/707084fe-ea4d-469e-a867-5d0a5e04b7c1
 
 ### KubeArmor
 
@@ -1112,8 +1100,8 @@ In this project you will, together with your mentor and the TUF community, ident
 - Recommended Skills: Front-end web development, Information Visualization
 - Mentor(s): # 
   - Lukas Pühringer (@lukpueh, lukas.puehringer@nyu.edu) - primary
-  - TBD
-- Upstream Issue (URL): TBD, https://github.com/theupdateframework/tuf-on-ci/issues/39 (initial ideas)
+  - Jussi Kukkonen (@jku, jku@goto.fi)
+- Upstream Issue (URL): https://github.com/theupdateframework/specification/issues/312
 - LFX URL: https://mentorship.lfx.linuxfoundation.org/project/ea1a5098-29ce-4799-82e0-07416ab4b56a
 
 ### Vitess
